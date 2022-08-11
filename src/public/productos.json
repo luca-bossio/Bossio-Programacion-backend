@@ -1,0 +1,17 @@
+[
+    {
+      "producto": "Pelota de futbol",
+      "precio": 5000,
+      "id": 1
+    },
+    {
+      "producto": "Pelota de rugby",
+      "precio": 3500,
+      "id": 2
+    }, 
+    {                                                                                                                 
+      "producto": "Pelota de voley",                                                                                                                                 
+      "precio": 3000,                                    
+      "id":3 
+    }
+]
